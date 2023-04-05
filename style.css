@@ -20,7 +20,7 @@ html{
        rgb(9, 20, 73)
         /* rgb(20, 66, 8) */
     ),
-    url("/pic/IMG_4182.JPG\ c.JPG");    
+    url("pic\IMG_4182.JPG c.JPG");    
     background-size: cover;
     background-position: inherit;
 }
